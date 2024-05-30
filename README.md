@@ -1,2 +1,3 @@
-# Linear regression model for predicting rent in Germany basis living space(only living space). Well, this is shaping up! There are no more suggestions.
+# Linear regression model for predicting rent in Germany based on living space(only living space.
+Everything is 
  
